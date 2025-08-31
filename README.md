@@ -1,7 +1,7 @@
 # R Projects 📊
 
 A collection of my R projects exploring data analysis, machine learning, and visualization.  
-Here is a set of self-contained projects with scripts, datasets (if small), and outputs.
+Here is a set of self-contained projects with scripts, and outputs.
 
 ## 🔍 Contents
 - **Data Analysis** – Exploratory analysis, statistical modeling, and reporting  
